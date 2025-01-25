@@ -1,4 +1,4 @@
-#This dashboard is created on the data taken, it gives insights on the various operational and financial metrics for retail business
+# This dashboard is created on the data taken, it gives insights on the various operational and financial metrics for retail business
 
 Here's a detailed explanation of each component, along with inferences and how they are linked to finance:
 
