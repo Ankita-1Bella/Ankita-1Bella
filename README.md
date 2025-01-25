@@ -39,4 +39,3 @@ Overall Financial Linkages
 - Profitability: Identifying high-revenue categories, like Clothing, helps in strategic decision-making to enhance profitability.
 - Product Management: Understanding product variety and store age aids in planning for inventory management, renovations, and product diversification to stay competitive.
 
-Overall, the dashboard is a valuable tool for making informed financial and operational decisions to enhance business performance. If you have specific questions or need further analysis, feel free to ask!
